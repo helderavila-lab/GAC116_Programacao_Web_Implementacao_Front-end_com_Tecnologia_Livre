@@ -1,0 +1,16 @@
+# Backend (Django)
+venv/
+__pycache__/
+*.py[cod]
+db.sqlite3
+backend/media/
+
+# Frontend (Vue)
+node_modules/
+dist/
+*.local
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.idea/
